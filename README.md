@@ -18,6 +18,10 @@ A single-point optimization problem is defined on each vehicle node in the plato
 ![image](https://user-images.githubusercontent.com/69177652/226297689-92c32791-68aa-42fa-b71d-669640bc879e.png)
 
 ## EMS for ERELV platoon
+Figure shows the basic framework of EMS based on deep reinforcement learning (DRL).The environment model includes hybrid power system and driving environment, and the agent module contains learning algorithm. Through the interaction between agent and environment to optimize network parameters, agent will learn to output optimal actions to the environment to maximize the cumulative reward.
+###
+![image](https://user-images.githubusercontent.com/69177652/226921246-ef5301c4-974b-48b3-ae95-d1cb4e8411d2.png)
+
 The state transition of ERELV has the Markov property and generates a corresponding energy consumption at each time step. Since each agent cannot know the complete environment state, the EMS of the ERELV platoon can be modeled as a partially observable POMDP. The task types applied by MADRL algorithm are divided into fully cooperative, fully competitive and hybrid types. For the EMS of the ERELV platoon, each vehicle node needs to jointly explore the optimal control behavior under different vehicle states, so it is a fully cooperative MADRL problem.
 ###
 ![image](https://user-images.githubusercontent.com/69177652/226298289-82a1e4d8-87c2-4ea5-8b55-9f2d9d0f8c90.png)
