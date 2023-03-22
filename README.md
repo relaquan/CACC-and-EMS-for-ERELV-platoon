@@ -18,7 +18,7 @@ A single-point optimization problem is defined on each vehicle node in the plato
 ![image](https://user-images.githubusercontent.com/69177652/226297689-92c32791-68aa-42fa-b71d-669640bc879e.png)
 
 ## EMS for ERELV platoon
-Figure shows the basic framework of EMS based on deep reinforcement learning (DRL).The environment model includes hybrid power system and driving environment, and the agent module contains learning algorithm. Through the interaction between agent and environment to optimize network parameters, agent will learn to output optimal actions to the environment to maximize the cumulative reward.
+The picture shows the basic framework of EMS based on deep reinforcement learning (DRL).The environment model includes hybrid power system and driving environment, and the agent module contains learning algorithm. Through the interaction between agent and environment to optimize network parameters, agent will learn to output optimal actions to the environment to maximize the cumulative reward.
 ###
 ![image](https://user-images.githubusercontent.com/69177652/226921246-ef5301c4-974b-48b3-ae95-d1cb4e8411d2.png)
 
