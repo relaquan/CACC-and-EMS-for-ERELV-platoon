@@ -8,6 +8,8 @@ Based on the DMPC algorithm, an Eco-CACC controller with the optimization goals 
 The multi-agent deep reinforcement learning (MADRL) algorithm is used to solve the EMS of the ERELV platoon.
 ###
 DQN, DDPG and MADDPG were used as energy management strategies for extended range electric logistics van platoon.
+###
+Happy to answer any questions you have. Please email us at wg@njust.edu.cn
 
 ## Eco-CACC and MADRL EMS overall control framework
 ![论文图片](https://user-images.githubusercontent.com/69177652/225628593-3d345c6e-bc35-4cf5-81fa-339341a6799a.png)
