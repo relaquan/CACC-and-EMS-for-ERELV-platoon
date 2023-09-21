@@ -1,5 +1,8 @@
 # Collaborative adaptive cruise control and energy management strategy for extended-range electric logistics van platoon
 
+
+###
+https://journals.sagepub.com/doi/10.1177/09544070231193187
 ###
 This paper improves the economy of the extended-range electric logistics van (ERELV) platoon from two aspects of cooperative adaptive cruise control (CACC) and energy management strategy (EMS).
 ###
